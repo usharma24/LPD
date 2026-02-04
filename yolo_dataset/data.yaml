@@ -1,0 +1,7 @@
+path: D:/app/npdataset/yolo_dataset
+
+train: images/train
+val: images/val
+
+nc: 1
+names: ["license_plate"]
